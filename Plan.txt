@@ -1,0 +1,32 @@
+Plan
+----------------------------------------------------------------------
+
+CRUD operations on all posts
+create chart in db
+integer in rows, not ...
+
+Write API for user to CRUd posts
+
+1 validation to all endpoint
+
+2 pagination to receiving
+
+filtration and sorting posts by date, length, so on
+
+make JWT authorisation 
+make db of users
+endpoint of making acc
+entering acc
+deleting acc
+
+guard on managing posts (only authorised person can edit, delete, create new post)
+
+
+create endpoint that will get url of website and parse html so getting data from post
+
+write kron operation that will pare sites automatickly 
+-----------------------------------------------------------------------------------------------
+
+write tg bot
+
+upload files (photos for posts) 
